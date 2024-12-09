@@ -1,0 +1,7 @@
+For my project, I plan to make a working game of Hangman.
+
+Role: Systems Analyst, Software Designer, Software Developer, Test Engineer
+
+Schedule: Planned to have everything accomplished by deadline.
+
+Group: Gabriel Corrice (Solo)

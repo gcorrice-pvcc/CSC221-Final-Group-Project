@@ -1,0 +1,8 @@
+Test 1:
+Game starts properly, displays guesses as intended, guessing incorrectly causes game to end correctly.
+
+Test 2:
+Game starts properly, displays guesses as intended, guessing correctly allows to win the game correctly.
+
+Test 3: 
+Game starts properly, invalid (numerical) guesses do not deduct from total guess count.
