@@ -1,6 +1,11 @@
+CSC221 Final Project
+Design Document
+
 Planned Design:
 - Game should have a definitive start and end
 - Game should display correct guesses
 - Game should only deduct remaining guesses on a valid guess
 
-Planned solution is for the game to begin, prompt the player to begin guessing, and after a guess is made update the display and allow the player to guess again. This will continue until the player either runs out of guesses, or completely guesses the word.
+The planned solution for the project is for the game to begin, prompt the player to begin guessing, and after a guess is made update the display and allow the player to guess again.
+This will continue until the player either runs out of guesses, or completely guesses the word.
+
